@@ -1,0 +1,5 @@
+c:\users\ri_fan\documents\visual studio 2015\Projects\Template_Design\Template_Design\bin\Debug\Template_Design.exe.config
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Template_Design\Template_Design\bin\Debug\Template_Design.exe
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Template_Design\Template_Design\bin\Debug\Template_Design.pdb
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Template_Design\Template_Design\obj\Debug\Template_Design.exe
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Template_Design\Template_Design\obj\Debug\Template_Design.pdb
